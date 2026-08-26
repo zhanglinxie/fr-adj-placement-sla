@@ -1,0 +1,9 @@
+"Group","Adj_Type","N_participants","N_perfect_participants","Proportion_perfect","Mean_participant_accuracy"
+"Beginner","PreN_Adj",30,0,0,0.494444444444444
+"Beginner","PostN_Adj",30,9,0.3,0.772222222222222
+"Intermediate","PreN_Adj",28,0,0,0.556547619047619
+"Intermediate","PostN_Adj",28,11,0.392857142857143,0.863095238095238
+"Advanced","PreN_Adj",29,1,0.0344827586206897,0.681034482758621
+"Advanced","PostN_Adj",29,26,0.896551724137931,0.985632183908046
+"L1French","PreN_Adj",80,61,0.7625,0.978125
+"L1French","PostN_Adj",80,71,0.8875,0.990625
