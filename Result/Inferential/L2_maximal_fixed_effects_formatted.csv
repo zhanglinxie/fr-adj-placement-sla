@@ -1,0 +1,13 @@
+Predictor,Estimate,Posterior SD,95% CrI lower,95% CrI upper,Posterior direction,Probability of direction,Rhat,Bulk ESS,Tail ESS
+Intercept,0.8,0.29,0.25,1.37,Positive,99.76%,1,6367,8668
+GroupIntermediate,0.45,0.3,-0.14,1.04,Positive,93.19%,1,7191,10502
+GroupAdvanced,1.87,0.37,1.15,2.63,Positive,100.00%,1,9564,11086
+Adj_Type_c,2.28,0.53,1.2,3.3,Positive,99.99%,1,6704,8759
+FrequencyCont_c,0.58,0.25,0.08,1.05,Positive,98.75%,1,6461,8565
+GroupIntermediate:Adj_Type_c,0.32,0.55,-0.75,1.41,Positive,72.39%,1,9602,11356
+GroupAdvanced:Adj_Type_c,1.55,0.65,0.26,2.83,Positive,99.12%,1,12027,11982
+GroupIntermediate:FrequencyCont_c,-0,0.23,-0.46,0.46,Negative,50.86%,1,11345,10765
+GroupAdvanced:FrequencyCont_c,0.28,0.34,-0.41,0.95,Positive,80.09%,1,12561,11890
+Adj_Type_c:FrequencyCont_c,-0.72,0.45,-1.6,0.18,Negative,94.52%,1,7782,9173
+GroupIntermediate:Adj_Type_c:FrequencyCont_c,-0.06,0.41,-0.86,0.73,Negative,55.56%,1,15644,12261
+GroupAdvanced:Adj_Type_c:FrequencyCont_c,-1.48,0.59,-2.64,-0.33,Negative,99.34%,1,14512,12422
