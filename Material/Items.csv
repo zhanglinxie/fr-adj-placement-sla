@@ -1,0 +1,25 @@
+Condition;PhraseTrou ;choixA;choixB;ResponseCorrecte
+PréN_Connu 1;Il a visité ________________;un beau pays ;un pays beau;un beau pays 
+PréN_Connu 2;Elle a acheté  ________________;un joli studio;un studio joli;un joli studio
+PréN_Connu 3;Il a vu  ________________;un petit chat ;un chat petit;un petit chat 
+PréN_Connu 4;Elle a passé  ________________;un agréable voyage ;un voyage agréable ;un agr�able voyage
+PréN_Connu 5;Il a obtenu ________________;une mauvaise note;une note mauvaise;une mauvaise note
+PréN_Connu 6;Elle a prononcé   ________________;un excellent discours;un discours excellent;un excellent discours
+PréN_NonConnu 1;Il a   ________________;un fichu caractère;un caractère fichu;un fichu caract�re
+PréN_NonConnu 2;Elle est  _____;un piètre danseur;un danseur piètre;un pi�tre danseur
+PréN_NonConnu 3;Il est __________;un fiéffé menteur;un menteur fieffé;un menteur fieff�
+PréN_NonConnu 4;Il a rencontré ________;un soi-disant expert;un expert soi-disant;un soi-disant expert
+PréN_NonConnu 5;Il a présenté _______;un fascinant livre;un livre fascinant;un fascinant livre
+PréN_NonConnu 6?;Il a vu ;une fille;un garcon ;une fille
+PostN_Connu 1;Il a acheté _______;un vert pull;un pull vert;un pull vert
+PostN_Connu 2;Elle a mangé ____;un grec plat;un plat grec;un plat grec
+PostN_Connu 3;Il a vu _______;une ronde table;une table ronde;une table ronde
+PostN_Connu 4;Elle a lu _______;un intéressant livre;un livre intéressant ;un livre int�ressant
+PostN_Connu 5;Il est _______;un profesionnel musicien;un musicien profesionnel;un musicien profesionnel
+PostN_Connu 6;Elle a écrit ______;un scientifique article;un article scientifique ;un article scientifique 
+PostN_NonConnu 1;Il a ahceté ________;du bis pain;du pain bis;du pain bis
+PostN_NonConnu 2;Elle a ;une suave voix ;une voix suave;une voix suave
+PostN_NonConnu 3;Elle porte  ____;une mauve robe ;une robe mauve;une robe mauve
+PostN_NonConnu 4;Il a pris ;une sabbatique année;une année sabbatique;une ann�e sabbatique
+PostN_NonConnu 5;Il a chanté ____;une folklorique chanson;une chanson folklorique;une chanson folklorique
+PostN_NonConnu 6;Elle a  _____;un domestique chat;un chat domestique;un chat domestique
