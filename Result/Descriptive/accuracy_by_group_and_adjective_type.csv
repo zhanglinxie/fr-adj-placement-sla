@@ -1,0 +1,9 @@
+"Group","Adj_Type","N","Correct","Errors","Accuracy_rate"
+"Beginner","PreN_Adj",360,178,182,0.494444444444444
+"Beginner","PostN_Adj",360,278,82,0.772222222222222
+"Intermediate","PreN_Adj",336,187,149,0.556547619047619
+"Intermediate","PostN_Adj",336,290,46,0.863095238095238
+"Advanced","PreN_Adj",348,237,111,0.681034482758621
+"Advanced","PostN_Adj",348,343,5,0.985632183908046
+"L1French","PreN_Adj",960,939,21,0.978125
+"L1French","PostN_Adj",960,951,9,0.990625
